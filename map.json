@@ -56,6 +56,12 @@
          "id":24,
          "name":"QuickMeeting",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"IconToAbstractionQuickMeeting"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -90,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=1iyTGnV5Q8w"
+                 "value":"https:\/\/pixabay.com\/images\/search\/nature\/"
                 }],
          "type":"tilelayer",
          "visible":true,

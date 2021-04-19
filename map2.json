@@ -96,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.window-swap.com\/Window"
+                 "value":"https:\/\/pixabay.com\/images\/search\/nature\/"
                 }],
          "type":"tilelayer",
          "visible":true,

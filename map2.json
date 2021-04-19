@@ -56,6 +56,12 @@
          "id":24,
          "name":"QuickMeeting",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"IconToAbstractionQuickMeeting"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -90,7 +96,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=1iyTGnV5Q8w"
+                 "value":"<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube-nocookie.com\/embed\/1iyTGnV5Q8w\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
